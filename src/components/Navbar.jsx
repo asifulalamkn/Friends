@@ -28,7 +28,10 @@ const Navbar = () => {
             <span className="hidden sm:inline text-[14px] md:text-[15px]">Timeline</span>
           </NavLink>
           
-          
+          <NavLink to="/stats" className={linkClass}>
+            <FiBarChart2 className="text-lg md:text-xl" />
+            <span className="hidden sm:inline text-[14px] md:text-[15px]">Stats</span>
+          </NavLink>
         </div>
 
       </div>
