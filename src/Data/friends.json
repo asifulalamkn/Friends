@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "David Kim",
+    "picture": "https://i.pravatar.cc/150?u=1",
+    "days_since_contact": 62,
+    "status": "Almost Due",
+    "tags": ["WORK"],
+    "bio": "Project manager at the tech firm.",
+    "goal": 30,
+    "next_due_date": "Apr 28, 2026"
+  },
+  {
+    "id": 2,
+    "name": "Emma Wilson",
+    "picture": "https://i.pravatar.cc/150?u=2",
+    "days_since_contact": 62,
+    "status": "Overdue",
+    "tags": ["FAMILY"],
+    "bio": "My cousin who loves hiking.",
+    "goal": 14,
+    "next_due_date": "Feb 27, 2026"
+  },
+  {
+    "id": 3,
+    "name": "Lisa Nakamura",
+    "picture": "https://i.pravatar.cc/150?u=3",
+    "days_since_contact": 62,
+    "status": "Overdue",
+    "tags": ["WORK"],
+    "bio": "Former colleague and design mentor.",
+    "goal": 30,
+    "next_due_date": "Mar 15, 2026"
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "https://i.pravatar.cc/150?u=4",
+    "days_since_contact": 62,
+    "status": "Overdue",
+    "tags": ["HOBBY", "TRAVEL"],
+    "bio": "Travel buddy from the Bali trip.",
+    "goal": 60,
+    "next_due_date": "Jan 10, 2026"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Chen",
+    "picture": "https://i.pravatar.cc/150?u=5",
+    "days_since_contact": 5,
+    "status": "On-Track",
+    "tags": ["COLLEGE"],
+    "bio": "Study partner from university.",
+    "goal": 7,
+    "next_due_date": "Apr 20, 2026"
+  },
+  {
+    "id": 6,
+    "name": "Alex Johnson",
+    "picture": "https://i.pravatar.cc/150?u=6",
+    "days_since_contact": 62,
+    "status": "Almost Due",
+    "tags": ["WORK"],
+    "bio": "Frontend developer team member.",
+    "goal": 30,
+    "next_due_date": "Apr 25, 2026"
+  },
+  {
+    "id": 7,
+    "name": "Olivia Martinez",
+    "picture": "https://i.pravatar.cc/150?u=7",
+    "days_since_contact": 62,
+    "status": "Overdue",
+    "tags": ["FAMILY"],
+    "bio": "Sister who lives in Canada.",
+    "goal": 15,
+    "next_due_date": "Feb 10, 2026"
+  },
+  {
+    "id": 8,
+    "name": "Ryan O'Brien",
+    "picture": "https://i.pravatar.cc/150?u=8",
+    "days_since_contact": 10,
+    "status": "On-Track",
+    "tags": ["HOBBY"],
+    "bio": "Gym partner and fitness coach.",
+    "goal": 14,
+    "next_due_date": "Apr 22, 2026"
+  },
+  {
+    "id": 9,
+    "name": "Aisha Patel",
+    "picture": "https://i.pravatar.cc/150?u=9",
+    "days_since_contact": 62,
+    "status": "Overdue",
+    "tags": ["WORK"],
+    "bio": "Collaborator on the web project.",
+    "goal": 30,
+    "next_due_date": "Mar 05, 2026"
+  },
+  {
+    "id": 10,
+    "name": "Marcus Johnson",
+    "picture": "https://i.pravatar.cc/150?u=10",
+    "days_since_contact": 12,
+    "status": "On-Track",
+    "tags": ["COLLEGE"],
+    "bio": "High school best friend.",
+    "goal": 90,
+    "next_due_date": "Jun 15, 2026"
+  },
+  {
+    "id": 11,
+    "name": "Sophia Garcia",
+    "picture": "https://i.pravatar.cc/150?u=11",
+    "days_since_contact": 62,
+    "status": "Almost Due",
+    "tags": ["TRAVEL"],
+    "bio": "Photographer met in Paris.",
+    "goal": 45,
+    "next_due_date": "May 01, 2026"
+  },
+  {
+    "id": 12,
+    "name": "Liam Smith",
+    "picture": "https://i.pravatar.cc/150?u=12",
+    "days_since_contact": 62,
+    "status": "Overdue",
+    "tags": ["FAMILY"],
+    "bio": "Favorite cousin from London.",
+    "goal": 20,
+    "next_due_date": "Feb 15, 2026"
+  },
+  {
+    "id": 13,
+    "name": "Isabella Rossi",
+    "picture": "https://i.pravatar.cc/150?u=13",
+    "days_since_contact": 3,
+    "status": "On-Track",
+    "tags": ["HOBBY"],
+    "bio": "Culinary school classmate.",
+    "goal": 7,
+    "next_due_date": "Apr 18, 2026"
+  },
+  {
+    "id": 14,
+    "name": "Daniel Lee",
+    "picture": "https://i.pravatar.cc/150?u=14",
+    "days_since_contact": 62,
+    "status": "Almost Due",
+    "tags": ["WORK"],
+    "bio": "Backend engineer colleague.",
+    "goal": 30,
+    "next_due_date": "Apr 30, 2026"
+  },
+  {
+    "id": 15,
+    "name": "Mia Wong",
+    "picture": "https://i.pravatar.cc/150?u=15",
+    "days_since_contact": 62,
+    "status": "Overdue",
+    "tags": ["COLLEGE"],
+    "bio": "Art club president at college.",
+    "goal": 30,
+    "next_due_date": "Mar 20, 2026"
+  },
+  {
+    "id": 16,
+    "name": "Noah Brown",
+    "picture": "https://i.pravatar.cc/150?u=16",
+    "days_since_contact": 8,
+    "status": "On-Track",
+    "tags": ["FAMILY"],
+    "bio": "Uncle who loves chess.",
+    "goal": 14,
+    "next_due_date": "Apr 23, 2026"
+  }
+]
