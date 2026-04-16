@@ -1,16 +1,47 @@
-# React + Vite
+# KeenKeeper — Keep Your Friendships Alive
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+KeenKeeper is a specialized friendship tracking dashboard designed to help users nurture and maintain their personal connections. In a fast-paced world, it's easy to lose track of time; this application ensures you stay consistent with the people who matter most by monitoring interactions and setting relationship goals.
 
-Currently, two official plugins are available:
+## Live Project
+The application is deployed and can be accessed here:  
+https://keenkeeperbd.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Key Features
+* **Friendship Tracking:** Categorizes friends based on contact frequency with status indicators like Overdue, Almost Due, and On-Track.
+* **Centralized Timeline:** A filterable history of all interactions (Calls, Texts, and Videos) to keep a clear record of your social life.
+* **Visual Analytics:** Integrated data visualization using Recharts to analyze engagement patterns across different communication channels.
+* **Responsive Architecture:** A mobile-first design approach that provides a seamless experience across smartphones, tablets, and desktops.
+* **Interactive Feedback:** Uses toast notifications to confirm data updates and user actions instantly.
 
-## React Compiler
+## Technologies Used
+* **Core:** React.js (Vite)
+* **Navigation:** React Router DOM
+* **Design:** Tailwind CSS
+* **Icons:** React Icons
+* **Charts:** Recharts
+* **Utility:** React Hot Toast
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Local Setup Instructions
+To run this project on your local machine, follow these steps:
 
-## Expanding the ESLint configuration
+1. Clone the repository:
+   git clone https://github.com/asifulalamkn/keenkeeper.git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Enter the project directory:
+   cd keenkeeper
+
+3. Install the required packages:
+   npm install
+
+4. Start the development server:
+   npm run dev
+
+## Project Organization
+* src/components: Reusable UI elements such as Navbars, Footers, and Friend Cards.
+* src/Pages: Main view components including Home, Timeline, and Analytics pages.
+* src/Context: Context API implementation for managing global interaction states.
+* src/Data: Local JSON data structure for friend profiles and metrics.
+
+## Author
+Developed by Asiful Alam.  
+GitHub: [asifulalamkn](https://github.com/asifulalamkn)
